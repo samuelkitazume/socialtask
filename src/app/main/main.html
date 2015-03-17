@@ -1,28 +1,16 @@
-<div layout="column" layout-fill>
+<div class="container-principal" layout="row" layout-flex>
 
-  <header ng-include="'components/navbar/navbar.html'"></header>
+  <div flex="20" class="bg maroto">
+    <header>
+      <h1 class="logo">SocialTask</h1>
+    </header>
+  </div>
+  <div flex="60">
 
-  <md-whiteframe class="md-whiteframe-z1">
-            
-    <md-grid-list
-          md-cols-sm="1" md-cols-md="2" md-cols-gt-md="6"
-          md-row-height-gt-md="1:1" md-row-height="2:2"
-          md-gutter="12x" md-gutter-gt-sm="8px" >
+  </div>
+  <div flex="20" class="bg light-grey">
 
-      <md-grid-tile class="gray"
-          md-rowspan="{{task.grid.rowSpan}}" md-colspan="{{task.grid.colSpan}}"
-          ng-repeat="task in toDoList"
-          ng-click="changeSize(task)">
-
-        <md-grid-tile-footer>
-          <h3>{{task.title}}</h3>
-        </md-grid-tile-footer>
-
-      </md-grid-tile>  
-
-    </md-grid-list>
-
-  </md-whiteframe>
+  </div>
 
 
 </div>

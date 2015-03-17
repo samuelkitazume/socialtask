@@ -1,0 +1,1329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"template_",
+				"template_texto4"
+			],
+			[
+				"data",
+				"dataFactory"
+			],
+			[
+				"object",
+				"objectSelectedId"
+			],
+			[
+				"objectSe",
+				"objectSelected"
+			],
+			[
+				"objectSele",
+				"objectSelectedId"
+			],
+			[
+				"collecti",
+				"collectionDepths"
+			],
+			[
+				"history",
+				"historyStorage"
+			],
+			[
+				"actua",
+				"actualState"
+			],
+			[
+				"actualS",
+				"actualScreenState"
+			],
+			[
+				"root",
+				"rootScope	\\$rootScope"
+			],
+			[
+				"element",
+				"elementoPrincipal"
+			],
+			[
+				"ng-switch",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"templates",
+				"templatesFactory"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"ng",
+				"ng-view	AngularJS"
+			],
+			[
+				"filter",
+				"filtroProcessos"
+			],
+			[
+				"processos",
+				"processosAtivos"
+			],
+			[
+				"sc",
+				"social"
+			],
+			[
+				"get",
+				"getResposta"
+			],
+			[
+				"arr",
+				"arrResposta"
+			],
+			[
+				"ob",
+				"objetos"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"arrRe",
+				"arrRespostaLength"
+			],
+			[
+				"res",
+				"resposta"
+			],
+			[
+				"filtros",
+				"filtrosSelecionados"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/main/main.html",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/index.scss",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"set YA",
+				"Set Syntax: YAML"
+			],
+			[
+				"set coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"view ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"svn ",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"update",
+				"SVN: (Folder) Update"
+			],
+			[
+				"svn",
+				"Preferences: SVN Settings"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"hem",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"view mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"format",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"view min",
+				"View: Toggle Minimap"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd ",
+			"cd PACKAGE_PATH",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"	sublime.log_commands(False)",
+			"sublime.log_commands(false)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/socialtask/gulp/scripts.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/socialtask/gulp/server.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/socialtask/e2e/main.spec.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/socialtask/src/app/main/main.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/wiredep.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/watch.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/server.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/build.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/e2e/main.po.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/index.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/e2e/main.spec.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/governance/templates/governance.navigation",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/proxy.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/index.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/services/appState.service.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/governance/governance.main.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/governanceProject.sublime-project",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/keyboardShortcuts/directives/globalDirectives.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/governance/templates/governance.main.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/routes.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/governance/governance.main.controller.spec.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/governance/governance.main.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosContainer.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosPlace.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosTree.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosPlace.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.controller.spec.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/controllers/screenState.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/templates/main-topo.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/templates/main.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosAttribute.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosContainer.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosTreeNode.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/styles/atosTree.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/atosDirectives.modulo.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/social/atossocial.module.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/servercommunication/atosservercommunication.module.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/notificacao/atosnotificacao.module.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosTree.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/servercommunication/factories/data.factory.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/social/sideContent.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosAttribute.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosTreeNode.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosAttributeGroup.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/templates/atosAttributeGroup.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/plugins/atosPlugins.modulo.coffee",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/controllers/atributos.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/searchUtils.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/social/controllers/sideContent.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/models/Atributos.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/js/main.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/js/Governanca.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/js/arquiteturaProcessos.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/data/json/relacionamentos_bkp_ultimo_nivel.json",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/data/json/sistemas.json",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/data/json/relacionamentos.json",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/socialtask/package.json",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/controllers/objetos.js",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Samuel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Samuel/Documents/Samuel/teamspeak3-server_win64/LICENSE.txt",
+		"/C/Users/Samuel/Documents/Samuel/teamspeak3-server_win64/ts3server.sqlitedb",
+		"/C/Users/Samuel/Documents/Samuel/teamspeak3-server_win64/sql/defaults.sql",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/styles/index.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulp/unit-tests.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/karma.conf.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/node_modules/karma-phantomjs-launcher/index.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/package.json",
+		"/C/wamp/www/geraradorJSON/montaJSON.php",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/login/login.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.html.REMOTE.8220.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/404.html",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/glyphicons/glyphicons-halflings-regular.svg",
+		"/C/wamp/www/geraradorJSON/montaJSONTree.php",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/login/login.controller.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/index - Cópia.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/bower.json",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/controllers/processos.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/models/Processos.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/data/process.db",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/app.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosFileTree/template/atosTree.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.tmp/app/modulos/componentes/directives/atosTreeNode.directive.js",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/atos-fonte.svg",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosFileTree/atosTree.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosFileTree/template/atosFileTree.template.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosFileTree/atosFileTree.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.tmp/app/modulos/componentes/directives/atosFileTree/atosFileTree.directive.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/routes/verifyAuth.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.jshintrc",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/coffeelint.json",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.editorconfig",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/protractor.conf.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/gulpfile.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/componentes/directives/atosFileTree.directive.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/data/objetos.db",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/models/Objetos.js",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/svg/comment3.svg",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/public/data/json/produtos.json",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/app.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/routes/users.js",
+		"/C/Users/Samuel/Desktop/localNodeServerGov5/localNodeServerGov5/routes/index.js",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/servermock/routes/processos.js",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/svg/machine2.svg",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.html.LOCAL.8220.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.html.BASE.8220.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/main/main.html.BACKUP.8220.html",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/social/factories/mensagem.factory.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/styles/vendor.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/keyboardShortcuts/keyboardShortcuts.modulo.coffee",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/animations.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/plugins/services/lodash.service.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/modulos/plugins/plugins.modulo.coffee",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.bowerrc",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/glyphicons/glyphicons-halflings-regular.woff",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/.yo-rc.json",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/svg/rubbish.svg",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/glyphicons/glyphicons-font.scss",
+		"/C/Users/Samuel/Documents/Samuel/RepositorioGit/Governance/src/app/factories/appState.factory.coffee",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/svg/star138.svg",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/fonts/svg/site.svg",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/skin1.scss",
+		"/C/Repositorios/designpet/atos6_gulp_libsass/src/app/styles/tmp.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Repositorios\\designpet\\atos6_gulp_libsass\\src\\app",
+			"C:\\Users\\Samuel\\Documents\\Samuel\\Repositorio\\Governance",
+			"C:\\Repositorios\\designpet\\atos6_gulp_libsass\\src\\app",
+			"C:\\Repositorios\\designpet\\atos6\\app\\styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bacgrkound",
+			"\"app",
+			"10",
+			"<br />",
+			"<br /><br />",
+			"nome",
+			"{{}} ",
+			"attr-",
+			"attrAttributes",
+			"                            \n                            template = ",
+			"attrTemplate",
+			"template =",
+			"template",
+			"scope.ulAttr.append $templateCache.get",
+			"$scope",
+			" then",
+			"case",
+			"1",
+			"set",
+			"attribute",
+			"'<",
+			"$templateCache.get ",
+			"span",
+			"attribute",
+			")\n",
+			"$scope",
+			"ObjCtrl",
+			"Objetos",
+			"console",
+			"treeObject",
+			"function ",
+			"var ",
+			"actualScreenState",
+			"animate-show",
+			"enter",
+			"object",
+			"child",
+			"findDepth",
+			"object",
+			"console",
+			"$scope",
+			"subTree2",
+			"subTree",
+			"object",
+			"scope",
+			"$scope",
+			"options",
+			"$scope",
+			"collectionProperties",
+			"aChildren",
+			"$scope.",
+			"verifyDepth",
+			"document",
+			"filterCollection",
+			".",
+			"a",
+			"scope.objects",
+			"$scope",
+			"{\n          pre: () ->\n            console.log 'pre',$scope.objects\n          ,pos: () ->\n            console.log 'pos',$scope.objects\n        }",
+			"scope",
+			"newS",
+			"new",
+			"child",
+			"tree_item_renderer",
+			"filho",
+			"nome",
+			"span",
+			"div",
+			"},\n	{",
+			"Process",
+			"Processos",
+			"historyObj",
+			"historyStorage[collection]",
+			"auxObj",
+			"history = historyStorage[collection]",
+			"if storage[collection]",
+			"storage[collection]",
+			"[pointer]",
+			"storager",
+			"'actualScreenState'",
+			"val",
+			"prop",
+			"pointers[collection] = storage[collection].length-1",
+			"actualScreenState",
+			"obj",
+			"actualScreenState",
+			"h4",
+			"actualState",
+			"angular.module \"atosLogin\"\n  .controller \"loginController\", ['$scope','$http','$state',($scope, $http,$state) ->\n\n    $scope.username = 'teste'\n    $scope.password = 'teste'\n\n    $scope.authentication = () ->\n\n      $http {\n        url: '/authentication',\n        method: 'POST',\n        data: {\n          user: $scope.username,\n          pass: $scope.password\n        }\n      }\n        .success (data) ->\n          if data then $state.go('home') else $state.go('login')\n      undefined\n\n    undefined\n  ]\n\n",
+			"angular.module \"atosSocial\", ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ui.router', 'mgcrea.ngStrap','atosServerCommunication']\n  .controller \"teste\" , [\"$rootScope\",\"$scope\" ,\"$cookies\", \"mensagemFactory\",'appState', ( $rootScope , $scope , $cookies ,mensagemFactory, appState ) ->\n\n    $scope.consoleProcessos = () ->\n      mensagemFactory.getMensagens()\n        .then (data) ->\n          console.log 'processos: ' , data\n        ,(error) ->\n          console.log 'erro: ', error\n\n    $scope.print = () ->\n      console.log $scope.appState()\n\n    $scope.appState = () ->\n      this.getAppState = () ->\n        console.log appState.actualState\n      this.setAppState = (valor) ->\n        appState.actualState.subject = valor\n\n    undefined\n  ]\n",
+			"response",
+			"script",
+			"$httpProvider.interceptors.push ($q) ->\n      return {\n        'response': (response) ->\n          console.log 'interceptor working: ',response.status\n          $state.go 'login' if response.status == 401 or response.status == 403\n          response\n      }",
+			"angular.module \"atos6GulpLibsassAs\", ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ui.router', 'mgcrea.ngStrap','atosSocial','atosLogin']\n  .config ['$stateProvider', '$urlRouterProvider', '$locationProvider', '$httpProvider', ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) ->\n    $stateProvider\n      .state \"home\",\n        url: \"/\",\n        templateUrl: \"app/main/main.html\",\n        controller: \"teste\"\n      .state \"login\",\n        url: \"/login\",\n        templateUrl: \"app/modulos/login/login.html\"\n        controller: \"loginController\"\n\n    $urlRouterProvider.otherwise '/'\n\n    $urlRouterProvider.when '/bpm/', '/bpm/tarefas'\n    $urlRouterProvider.when '/bpm', '/bpm/tarefas'\n    $urlRouterProvider.when '/', '/bpm'\n    $urlRouterProvider.when '/index.html', '/'\n    $urlRouterProvider.when '/index', '/'\n\n    $locationProvider.html5Mode {\n      enabled: true,\n      requireBase: false\n    }\n\n    $httpProvider.interceptors.push ($q) ->\n      return {\n        'request': (config) ->\n          console.log 'old config' , config\n\n          if !config.data.isAuthenticating\n            config.data.oldRt = config.url\n            config.url = '/verifyAuth'\n\n          console.log 'new config' , config\n\n          config\n      }\n\n  ]\n",
+			"n(",
+			");",
+			"user",
+			"proxy.web",
+			"    proxy.web(req, res);\n",
+			": #",
+			"div style=\"height:10",
+			"div role",
+			"Campo1",
+			"<p",
+			"p>",
+			"p",
+			"md-raised",
+			"md-warn ",
+			"warning",
+			"class=\"tab\" ",
+			" atos-col-3",
+			"flex",
+			"0.5",
+			"md-",
+			"span",
+			"resizableBar",
+			"resize",
+			"column",
+			"$scope",
+			"tab ",
+			"tab",
+			"tamanho1",
+			"colum ",
+			"$third-value",
+			"third-value * (100% / 12)",
+			"first-value * (100% / 12)",
+			"third-colum",
+			"first-colum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"NOTIFCS\">\n                <div class=\"ICONE-NOTIF\">\n                    <div class=\"icon-atos-arquivo icone\"></div>\n                    <span class=\"COUNTER\">2</span>\n                    <div class=\"menu-drop\">\n                        <div class=\"detalhe-seta-cima\"></div>    \n                        <ul>         \n                            <li class=\"title\"><div>Tarefas</div></li>\n                            <li onclick=\"window.location.href = 'bpm_gov_departamentos.html'\"><span>Usuario alexandre germano solicita alterações no processo <a href=\"#\">Simples Comercializar Custódia de Cheque</a></span></li>\n                            <li onclick=\"window.location.href = 'bpm_gov_sistemas.html'\"><span><b>Melhorias</b>: Usuário Simone Arlete sugeriu uma melhoria para o processo <a href=\"#\">Simples Realizar Captura de Cheques</a></span></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"ICONE-NOTIF\">\n                    <div class=\"icon-atos-notificacoes icone\"></div>\n                    <span class=\"COUNTER\">2</span>\n                    <div class=\"menu-drop\">\n                        <div class=\"detalhe-seta-cima\"></div>    \n                        <ul>         \n                            <li class=\"title\"><div>Alertas</div></li>\n                            <li onclick=\"window.location.href = 'bpm_gov_departamentos.html'\"><span>Indicador de <a href=\"#\">Prazo para Abertura de Conta</a> está acima da meta definida. Uma ação é requerida.</span></li>\n                            <li onclick=\"window.location.href = 'bpm_gov_sistemas.html'\"><span>Plano de ação em atrazo. Status encaminhado para usuário Alexandre Arias.</span></li>\n                        </ul>\n                    </div>\n                </div>\n            </div>",
+			"<span class=\"permissao-user\">Gerente-geral</span>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/main/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "src/app/index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "socialtask.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scss",
+				"src\\app\\index.scss"
+			],
+			[
+				"main",
+				"src\\app\\main\\main.html"
+			],
+			[
+				"wiredep",
+				"Governance\\gulp\\wiredep.js"
+			],
+			[
+				"wired",
+				"Governance\\gulp\\wiredep.js"
+			],
+			[
+				"index",
+				"Governance\\src\\index.html"
+			],
+			[
+				"proxy",
+				"Governance\\gulp\\proxy.js"
+			],
+			[
+				"governance",
+				"Governance\\src\\app\\modulos\\governance\\templates\\governance.main.html"
+			],
+			[
+				"atosplace",
+				"Governance\\src\\app\\templates\\atosPlace.template.html"
+			],
+			[
+				"atosconta",
+				"Governance\\src\\app\\templates\\atosContainer.template.html"
+			],
+			[
+				"atoscon",
+				"Governance\\src\\app\\templates\\atosContainer.template.html"
+			],
+			[
+				"atostree",
+				"Governance\\src\\app\\modulos\\componentes\\directives\\atosTree.directive.coffee"
+			],
+			[
+				"atos",
+				"Governance\\src\\app\\templates\\atosAttribute.template.html"
+			],
+			[
+				"main.html",
+				"Governance\\src\\app\\main\\main.html"
+			],
+			[
+				"appstate",
+				"Governance\\src\\app\\services\\appState.service.coffee"
+			],
+			[
+				"atosserver",
+				"Governance\\src\\app\\modulos\\servercommunication\\atosservercommunication.module.coffee"
+			],
+			[
+				"datafactory",
+				"Governance\\src\\app\\modulos\\servercommunication\\factories\\data.factory.coffee"
+			],
+			[
+				"data",
+				"Governance\\src\\app\\modulos\\servercommunication\\factories\\data.factory.coffee"
+			],
+			[
+				"datafa",
+				"Governance\\src\\app\\modulos\\servercommunication\\factories\\data.factory.coffee"
+			],
+			[
+				"atosdirective",
+				"Governance\\src\\app\\modulos\\componentes\\atosDirectives.modulo.coffee"
+			],
+			[
+				"atosdi",
+				"Governance\\src\\app\\modulos\\componentes\\atosDirectives.modulo.coffee"
+			],
+			[
+				"datafac",
+				"Governance\\src\\app\\modulos\\servercommunication\\factories\\data.factory.coffee"
+			],
+			[
+				"login",
+				"Governance\\src\\app\\modulos\\login\\login.scss"
+			],
+			[
+				"build.",
+				"Governance\\gulp\\build.js"
+			],
+			[
+				"bower",
+				"Governance\\bower.json"
+			],
+			[
+				"side",
+				"Governance\\src\\app\\modulos\\social\\sideContent.controller.coffee"
+			],
+			[
+				"sidecontent",
+				"Governance\\src\\app\\modulos\\social\\controllers\\sideContent.controller.coffee"
+			],
+			[
+				"atost",
+				"Governance\\src\\app\\modulos\\componentes\\directives\\atosFileTree\\atosTree.directive.coffee"
+			],
+			[
+				"state",
+				"Governance\\src\\app\\main\\controllers\\screenState.controller.coffee"
+			],
+			[
+				"atossocia",
+				"Governance\\src\\app\\modulos\\social\\atossocial.module.coffee"
+			],
+			[
+				"atosfiletree",
+				"Governance\\src\\app\\modulos\\componentes\\directives\\atosFileTree\\atosFileTree.directive.coffee"
+			],
+			[
+				"directive",
+				"Governance\\src\\app\\modulos\\keyboardShortcuts\\directives\\globalDirectives.directive.coffee"
+			],
+			[
+				"atossocial",
+				"Governance\\src\\app\\modulos\\social\\atossocial.module.coffee"
+			],
+			[
+				"atossoci",
+				"Governance\\src\\app\\modulos\\social\\atossocial.module.coffee"
+			],
+			[
+				"screen",
+				"Governance\\src\\app\\main\\controllers\\screenState.controller.coffee"
+			],
+			[
+				"sidecontet",
+				"Governance\\src\\app\\modulos\\social\\controllers\\sideContent.controller.coffee"
+			],
+			[
+				"mensage",
+				"Governance\\src\\app\\modulos\\social\\factories\\mensagem.factory.coffee"
+			],
+			[
+				"atosso",
+				"Governance\\src\\app\\modulos\\social\\atossocial.module.coffee"
+			],
+			[
+				"social",
+				"Governance\\src\\app\\modulos\\social\\sideContent.controller.coffee"
+			],
+			[
+				"in",
+				"Governance\\src\\app\\index.coffee"
+			],
+			[
+				"global",
+				"Governance\\src\\app\\modulos\\keyboardShortcuts\\directives\\globalDirectives.directive.coffee"
+			],
+			[
+				"keyboar",
+				"Governance\\src\\app\\modulos\\keyboardShortcuts\\keyboardShortcuts.modulo.coffee"
+			],
+			[
+				"mensagem",
+				"Governance\\src\\app\\modulos\\social\\factories\\mensagem.factory.coffee"
+			],
+			[
+				"atossoc",
+				"Governance\\src\\app\\modulos\\social\\atossocial.module.coffee"
+			],
+			[
+				".controller",
+				"Governance\\src\\app\\main\\main.controller.coffee"
+			],
+			[
+				"nav",
+				"Governance\\src\\app\\main\\controllers\\nav.controller.coffee"
+			],
+			[
+				"da",
+				"Governance\\src\\app\\modulos\\servercommunication\\factories\\data.factory.coffee"
+			],
+			[
+				"notifi",
+				"Governance\\src\\app\\modulos\\notificacao\\factories\\notificacao.factory.coffee"
+			],
+			[
+				"atosnoti",
+				"Governance\\src\\app\\modulos\\notificacao\\atosnotificacao.module.coffee"
+			],
+			[
+				"atosser",
+				"Governance\\src\\app\\modulos\\servercommunication\\atosservercommunication.module.coffee"
+			],
+			[
+				"main-",
+				"Governance\\src\\app\\main\\templates\\main-topo.html"
+			],
+			[
+				"prox",
+				"Governance\\gulp\\proxy.js"
+			],
+			[
+				"gulp",
+				"Governance\\gulp\\server.js"
+			],
+			[
+				"verify",
+				"src\\app\\main\\shared\\verifyAuth.factory.coffee"
+			],
+			[
+				"angular-ma",
+				"bower_components\\angular-material\\angular-material.css"
+			],
+			[
+				"angular",
+				"bower_components\\angular-material\\angular-material.css"
+			],
+			[
+				"topo",
+				"app\\topo\\topo.scss"
+			],
+			[
+				"",
+				"app\\meio\\meio.scss"
+			],
+			[
+				"skin",
+				"app\\styles\\skin1.scss"
+			],
+			[
+				"angular-material",
+				"bower_components\\angular-material\\angular-material.css"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"amb",
+				"app\\ambTesteNgBootstrap.js"
+			],
+			[
+				"bootstrap",
+				"bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"geral",
+				"src\\app\\styles\\geral.scss"
+			],
+			[
+				"atos-col",
+				"src\\app\\shared\\directives\\templates\\atos-col-resize.html"
+			],
+			[
+				"modulo",
+				"src\\app\\shared\\factories\\moduloResize.factory.js"
+			],
+			[
+				"process",
+				"src\\app\\processos\\processos.scss"
+			],
+			[
+				"barra",
+				"src\\app\\barraPrincipal\\barraBusca.html"
+			],
+			[
+				"atos-se",
+				"src\\app\\shared\\directives\\atos-select.js"
+			],
+			[
+				"fact",
+				"src\\app\\shared\\factories\\factoryMain.js"
+			],
+			[
+				"meio",
+				"src\\app\\meio\\meio.html"
+			],
+			[
+				"processos",
+				"src\\app\\processos\\processos_card.html"
+			],
+			[
+				"filtros",
+				"src\\app\\processos\\filtros_por_modelo.html"
+			],
+			[
+				"template",
+				"src\\app\\shared\\factories\\templates.factory.js"
+			],
+			[
+				"glyp",
+				"src\\app\\styles\\glyphicons\\glyphicons-font.scss"
+			],
+			[
+				"gly",
+				"src\\app\\styles\\glyphicons\\glyphicons-font.css"
+			],
+			[
+				"procesos",
+				"src\\app\\processos\\processos.html"
+			],
+			[
+				"watch",
+				"gulp\\watch.js"
+			],
+			[
+				"server",
+				"gulp\\server.js"
+			],
+			[
+				"atos-sele",
+				"src\\app\\shared\\directives\\templates\\atos-select.html"
+			],
+			[
+				"navega",
+				"src\\app\\navegacaoGeral\\navegacaoGeral.scss"
+			],
+			[
+				"proceso",
+				"serverMock\\routes\\processos.js"
+			],
+			[
+				"barrabusca",
+				"src\\app\\barraPrincipal\\barraBusca.html"
+			],
+			[
+				"conteud",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.controller.js"
+			],
+			[
+				"conteudoprincipal",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.controller.js"
+			],
+			[
+				"conteudo",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.html"
+			],
+			[
+				"rodape",
+				"src\\app\\rodape\\rodape.controller.js"
+			],
+			[
+				"templates",
+				"src\\app\\shared\\factories\\templates.factory.js"
+			],
+			[
+				"modulos",
+				"src\\app\\shared\\factories\\modulos.factory.js"
+			],
+			[
+				"main.",
+				"src\\app\\main\\main.html"
+			],
+			[
+				"conteudopri",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.controller.js"
+			],
+			[
+				"factory",
+				"src\\app\\shared\\factories\\factoryMain.js"
+			],
+			[
+				"direct",
+				"src\\app\\shared\\directives\\atos-label.js"
+			],
+			[
+				"sso",
+				"src\\app\\sso\\sso.html"
+			],
+			[
+				"atos-select",
+				"src\\app\\shared\\directives\\templates\\atos-select.html"
+			],
+			[
+				"navegaca",
+				"src\\app\\navegacaoGeral\\navegacaoGeral.scss"
+			],
+			[
+				"processo",
+				"src\\app\\tarefas\\processos.html"
+			],
+			[
+				"noti",
+				"src\\app\\notificacoes\\notificacoes.scss"
+			],
+			[
+				"cores",
+				"src\\app\\styles\\_cores.scss"
+			],
+			[
+				"notificacoes",
+				"src\\app\\notificacoes\\notificacoes.scss"
+			],
+			[
+				"notifica",
+				"src\\app\\notificacoes\\notificacoes.html"
+			],
+			[
+				"topo.scss",
+				"src\\app\\topo\\topo.scss"
+			],
+			[
+				"main.scss",
+				"src\\app\\main\\main.scss"
+			],
+			[
+				"busca",
+				"src\\app\\barraPrincipal\\barra-busca.html"
+			],
+			[
+				"conteuro",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.controller.js"
+			],
+			[
+				"processos.",
+				"src\\app\\tarefas\\processos.html"
+			],
+			[
+				"main.css",
+				"src\\app\\main\\main.scss"
+			],
+			[
+				"tabela",
+				"src\\app\\styles\\_tabela-padrao.scss"
+			],
+			[
+				"gera",
+				"src\\app\\styles\\geral.scss"
+			],
+			[
+				"proce",
+				"src\\app\\tarefas\\processos.scss"
+			],
+			[
+				"mensa",
+				"src\\app\\social\\mensagem_card.scss"
+			],
+			[
+				".scss",
+				"src\\app\\main\\main.scss"
+			],
+			[
+				"tarefas",
+				"src\\app\\tarefas\\tarefas.html"
+			],
+			[
+				"conteu",
+				"src\\app\\conteudoPrincipal\\conteudoPrincipal.scss"
+			],
+			[
+				"filter",
+				"app\\filters\\filters.js"
+			],
+			[
+				"factor",
+				"app\\factories\\factoryMain.js"
+			],
+			[
+				"directives",
+				"app\\directives\\atos-label.js"
+			],
+			[
+				"controller",
+				"app\\topo\\topo.controller.js"
+			],
+			[
+				"meio.js",
+				"app\\controllers\\meio.js"
+			],
+			[
+				"facto",
+				"scripts\\factories\\factoryMain.js"
+			],
+			[
+				"fati",
+				"scripts\\factories\\factoryMain.js"
+			],
+			[
+				"cards",
+				"views\\cards.html"
+			],
+			[
+				"table",
+				"styles\\_table.scss"
+			],
+			[
+				"atos-label",
+				"scripts\\directives\\templates\\atos-label.html"
+			],
+			[
+				"apps",
+				"scripts\\app.js"
+			],
+			[
+				"proces",
+				"styles\\_processos.scss"
+			],
+			[
+				"soc",
+				"styles\\_social.scss"
+			],
+			[
+				"_proces",
+				"styles\\_processos.scss"
+			],
+			[
+				"gov",
+				"styles\\_gov.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,5 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,700,700italic,400italic);
 
+.bg {
+  &.maroto {
+    background:#0f1e32;
+    color: #8796af;
+  }
+  &.light-grey {
+    background:#eeeeee;
+  }
+}
+
 html {
   font-family: 'Roboto Slab', serif;
   overflow-x:auto;
@@ -8,6 +18,14 @@ html {
 
 [layout=row] {
   flex-direction: row;
+}
+
+div.container-principal {
+  position:Absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
 }
 
 .browsehappy {
@@ -53,6 +71,16 @@ section.jumbotron {
       float: right;
       width: 50px;
     }
+  }
+}
+
+.stage-principal {
+  md-grid-list {
+      width:80%;
+      margin:0 auto;
+      md-grid-tile {
+        background: #666;
+      }
   }
 }
 // injector
